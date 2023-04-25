@@ -1,6 +1,7 @@
 API
 ===
-gggggg
+inshallag
+
 .. autosummary::
    :toctree: generated
 
