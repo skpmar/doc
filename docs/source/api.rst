@@ -5,5 +5,5 @@ API
    :toctree: generated
 
    lumache
-
-   gggggggg
+   gg
+   
